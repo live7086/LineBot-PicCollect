@@ -16,7 +16,7 @@ Jinja2==3.1.2
 line-bot-sdk==2.4.2
 MarkupSafe==2.1.2
 multidict==6.0.4
-numpy==1.24.2
+numpy
 opencv-python==4.7.0.72
 opencv-python-headless==4.7.0.72
 pip==23.0.1
